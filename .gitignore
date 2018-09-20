@@ -1,0 +1,5 @@
+*.xz
+.SRCINFO
+pkg
+src
+xremap-*/
